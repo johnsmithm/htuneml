@@ -17,7 +17,7 @@ def getA():
     args = parser.parse_args()    
     return args
 
-job = Job('5c5dfb56cbcfb90bb9ee9ae9')
+job = Job('apikey')
 
 class Net(nn.Module):
     def __init__(self, hidden):

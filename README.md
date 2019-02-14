@@ -6,8 +6,8 @@
 Project links:
 
 -  `PyPI <https://pypi.python.org/pypi/htuneml/>`__
--  `Source code <https://github.com/htuneml/htuneml>`__
--  `Issue tracker <https://github.com/htuneml/htuneml/issues>`__
+-  `Source code <https://github.com/johnsmithm/htuneml>`__
+-  `Issue tracker <https://github.com/johnsmithm/htuneml/issues>`__
 
 
 Examples

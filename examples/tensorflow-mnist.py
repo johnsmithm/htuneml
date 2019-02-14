@@ -53,7 +53,7 @@ if __name__ == '__main__':
         job.setName(pars['name'])
         
     if pars['wait'] == 1:
-        job.sentParams(main)
+        job.sentParams(main)# comment @job.monitor above main function in order to work
         job.waitTask(main)
     else:
         main(pars)
